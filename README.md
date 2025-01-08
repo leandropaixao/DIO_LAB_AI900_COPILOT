@@ -1,21 +1,42 @@
 # DIO_LAB_AI900_COPILOT
 
-Este reposítório é um laboratório que faz parte do curso de preparação para o AI900 da Microsoft, promovido pela Digital Innovation One.
-Aqui foi utilizado o recurso do Copilot da Microsoft para a geração de imagens.
+[EN]
+
+This repository is a laboratory that is part of the preparation course for Microsoft's AI-900, promoted by Digital Innovation One.  
+Here, Microsoft's Copilot resource was used for image generation.
 
 [Microsoft Copilot](https://copilot.microsoft.com/)
 
-## _Etapas_
-A primeira etapa foi adicionar uma descrição simples para a geração de uma imagem: _crie um super herói baseado na linguagem de programação C#_
+## _Steps_
+The first step was to add a simple description for image generation: _create a superhero based on the C# programming language._
 
-A imagem gerada foi a seguinte:
+The generated image was the following:  
+![Super Hero 1](superhero_1.png)
 
+Then I added a negative comment that I didn’t like the image and improved the description: _I didn’t like this image. I will improve my description: create a superhero wearing blue clothes with the C# symbol on the chest and some details like technological gloves, a helmet, and special boots. This superhero is responsible for helping all programmers with their high-performance code._
 
-Depois adicionei uma negativa que não tinha gostado da imagem e adicionei mais algumas informações: _Não gostei dessa imagem. Vou melhorar a minha descrição, criar um super heroi com a roupa nas cores azul com o símbolo do c# no peito e com alguns detalhes como luvas tecnológicas, um capacete e botas especiais. Este super herói é responsável por ajudar todos os programdores com seu código de alta performance._
+The generated image:  
+![Super Hero 2](superhero_2.png)
 
-A imagem gerada:
+## _Result_
+The result was as good as I expected, but I believe that a better description in the prompt can help achieve the desired outcome.
 
+[FR]
+Ce dépôt est un laboratoire faisant partie du cours de préparation pour l'examen AI-900 de Microsoft, organisé par Digital Innovation One.  
+Ici, la ressource Copilot de Microsoft a été utilisée pour la génération d'images.
 
+[Microsoft Copilot](https://copilot.microsoft.com/)
 
-## Resultado
-O resultado tão bom quanto eu esperava, mas acredito que uma descrição melhor no prompt pode ajudar a um resultado desejado.
+## _Étapes_
+La première étape consistait à ajouter une description simple pour générer une image : _créez un super-héros basé sur le langage de programmation C#._
+
+L'image générée était la suivante :  
+![Super Hero 1](superhero_1.png)
+
+Ensuite, j'ai ajouté un commentaire négatif indiquant que je n'aimais pas l'image et j'ai amélioré la description : _Je n'ai pas aimé cette image. Je vais améliorer ma description : créer un super-héros vêtu de bleu avec le symbole C# sur la poitrine et quelques détails comme des gants technologiques, un casque et des bottes spéciales. Ce super-héros est chargé d'aider tous les programmeurs avec leur code haute performance._
+
+L'image générée :  
+![Super Hero 2](superhero_2.png)
+
+## _Résultat_
+Le résultat était aussi bon que je l'espérais, mais je pense qu'une meilleure description dans le prompt pourrait aider à obtenir le résultat souhaité.
